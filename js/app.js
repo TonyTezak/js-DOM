@@ -64,7 +64,7 @@ Append this div element to the aliasParent div.*/
 var timDuncan = document.createElement('div');
 timDuncan.id = 'alias8';
 timDuncan.innerHTML = "Old Man Riverwalk";
-nameParent.appendChild(alias8);
+nameParent.appendChild(timDuncan);
 
 //Final Boss
 /*9. Create your own profile.*/
